@@ -1,94 +1,32 @@
-# Hi there, I'm Danial! 👋
+# Hi, I'm Danial! 👋
 
-### 🎓 Physics Background | 🐍 Python & Data Analytics | 🤖 AI-Assisted Development
+🎓 **M.Sc. Physics Student** at the University of Augsburg, Germany.
 
-I'm a Master's student in Physics at the **University of Augsburg, Germany**, currently expanding my skills in **Python, Data Analytics, and Process Automation**.
-
-Alongside my academic background, I'm exploring how programming, data, and AI-assisted development can be used to solve real-world problems and build useful digital products.
-
----
+🐍 Passionate about **Python, Data Analytics, and Automation**, with a strong interest in applying technology to real-world problems.
 
 ### 🚀 What I'm Working On
 
-* 🐍 **Python:** Strengthening my programming fundamentals and problem-solving skills.
-* 📊 **Data Analytics:** Learning data processing, analysis, and visualization.
-* 🗄️ **SQL & Power BI:** Developing skills for working with databases and business intelligence.
-* 🤖 **AI-Assisted Development:** Exploring vibe coding and AI-powered development workflows.
-* 🌐 **GermanToon:** Building and developing an educational platform for German language learners.
+* **Python & Data Analytics:** Building programming and analytical skills.
+* **SQL & Power BI:** Exploring databases and business intelligence.
+* **AI-Assisted Development:** Building digital products through AI-powered coding and automation.
 
----
+### 🌐 My Project — GermanToon
 
-### 🌐 Featured Project: GermanToon
+Founder & Developer of **[GermanToon](https://germantoon.com)**, a German language-learning platform featuring:
 
-**GermanToon — German Language Learning Platform**
+* 🇩🇪 Interactive German-learning tools
+* 📚 German–Persian dictionary
+* 🤖 AI-assisted content processing
+* ⚙️ Data management and workflow automation
 
-An educational project focused on making German language learning more accessible and interactive.
+Built with **AI-assisted development (Vibe Coding)**.
 
-The project involves:
+### 🛠️ Skills & Interests
 
-* German–Persian dictionary development
-* Interactive language-learning features
-* Structured vocabulary data management
-* AI-assisted content processing and quality improvement
-* Workflow automation and iterative product development
+`Python` · `SQL` · `Power BI` · `Data Analytics` · `Automation` · `AI-Assisted Coding`
 
-I'm developing GermanToon with the support of AI coding tools while continuously improving my own programming and technical skills.
+### 🎯 Career Focus
 
-**Website:** https://germantoon.com
+**Data Analytics | Business Intelligence | Python Automation**
 
----
-
-### 🛠️ Technologies & Tools I'm Learning
-
-**Programming & Data**
-
-* Python
-* SQL
-* Pandas
-* Data Analysis & Visualization
-
-**Business Intelligence**
-
-* Microsoft Excel
-* Power BI
-
-**Development**
-
-* Git & GitHub
-* AI-Assisted Coding
-* Automation Workflows
-
----
-
-### 🎯 My Current Goals
-
-I'm focused on building practical skills and real-world projects in:
-
-* Data Analytics
-* Python Programming
-* Business Intelligence
-* Process Automation
-
-My goal is to transition into a professional role where I can combine analytical thinking, programming, and data-driven problem-solving.
-
----
-
-### 📫 Let's Connect!
-
-I'm always interested in learning, collaborating, and exploring opportunities in technology and data analytics.
-
-**Based in Germany 🇩🇪**
-
-**danishhb1/danishhb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Germany 🇩🇪
